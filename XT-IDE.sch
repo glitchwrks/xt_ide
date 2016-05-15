@@ -38,7 +38,7 @@ Sheet 1 1
 Title "XT-IDE 8-bit ISA IDE Controller"
 Date "2016-05-14"
 Rev "3B"
-Comp "N8VEM, The Glitch Works"
+Comp "The Glitch Works"
 Comment1 "J. Chapman"
 Comment2 ""
 Comment3 ""
