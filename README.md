@@ -6,7 +6,7 @@ More info on the Glitch Works project to provide boards, kits, and fully assembl
 
 ### Jumper Settings
 
-[modem7](http://minuszerodegress.net) created a great set of jumper diagrams for the rev 3 boards, available [on his site](http://minuszerodegrees.net/xtide/rev_3/XT-IDE%20Rev%203%20-%20general.htm) as well as in this Git repository:
+[modem7](http://minuszerodegrees.net/) created a great set of jumper diagrams for the rev 3 boards, available [on his site](http://minuszerodegrees.net/xtide/rev_3/XT-IDE%20Rev%203%20-%20general.htm) as well as in this Git repository:
 
 * [IDE Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE Rev 3 - jumper configuration - IDE functionality.jpg)
 * [ROM Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE Rev 3 - jumper configuration - optional boot rom.jpg)
