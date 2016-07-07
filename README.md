@@ -2,7 +2,7 @@
 
 [Glitch Works](http://www.glitchwrks.com/) respin of the XT-IDE rev 2 ISA controller. This board, when used with a custom BIOS like the XT-IDE Universal BIOS, allows the use of modern 16-bit IDE devices on the 8-bit ISA bus.
 
-More info on the Glitch Works project to provide boards, kits, and fully assembled units [can be found here](http://www.glitchwrks.com/xt-ide)
+More info on the Glitch Works project to provide boards, kits, and fully assembled units [can be found here](http://www.glitchwrks.com/xt-ide). A writeup on the rev 3 design process [is available here](http://www.glitchwrks.com/2016/07/06/xt-ide-rev3).
 
 ### Jumper Settings
 
