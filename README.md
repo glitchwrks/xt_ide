@@ -11,6 +11,10 @@ More info on the Glitch Works project to provide boards, kits, and fully assembl
 * [IDE Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE Rev 3 - jumper configuration - IDE functionality.jpg)
 * [ROM Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE Rev 3 - jumper configuration - optional boot rom.jpg)
 
+### Bill of Materials
+
+You can find a BOM with Mouser part numbers [here](https://github.com/glitchwrks/xt_ide/blob/master/bill_of_materials.md). Do note that you can purchase complete parts kits from [The Glitch Works](http://www.glitchwrks.com/xt_ide/) in addition to bare PC boards.
+
 ### Contributors
 
 **Please contact me or send a pull request to get your name added to the list!**
