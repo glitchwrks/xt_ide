@@ -15,6 +15,11 @@ More info on the Glitch Works project to provide boards, kits, and fully assembl
 
 You can find a BOM with Mouser part numbers [here](https://github.com/glitchwrks/xt_ide/blob/master/bill_of_materials.md). Do note that you can purchase complete parts kits from [The Glitch Works](http://www.glitchwrks.com/xt-ide) in addition to bare PC boards.
 
+
+### Slot 8 Support
+
+If you want to use this card with an IBM 5160 PC/XT in Slot 8, you need a small daughterboard to make this happen. The project files for the board are available [on GitHub](https://github.com/glitchwrks/xt_ide_slot_8_support). You can find a writeup on the design and assembly process [here](http://www.glitchwrks.com/2017/02/03/slot-8-support). If you'd like to order a board, parts kit, or assembled module, see the [Glitch Works XT-IDE page](http://www.glitchwrks.com/xt-ide) for ordering information.
+
 ### Contributors
 
 **Please contact me or send a pull request to get your name added to the list!**
