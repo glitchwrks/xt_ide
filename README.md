@@ -8,10 +8,7 @@ If you're looking for the rev 3 branch, [it can be found here](https://github.co
 
 ### Jumper Settings
 
-[modem7](http://minuszerodegrees.net/) created a great set of jumper diagrams for the rev 4 boards, available [on his site](http://www.minuszerodegrees.net/xtide/rev_4/XT-IDE%20Rev%204%20-%20general.htm) as well as in this Git repository:
-
-* [IDE Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE%20Rev%203%20-%20jumper%20configuration%20-%20IDE%20functionality.jpg)
-* [ROM Jumper Settings](https://github.com/glitchwrks/xt_ide/blob/master/XT-IDE%20Rev%203%20-%20jumper%20configuration%20-%20optional%20boot%20rom.jpg)
+[modem7](http://minuszerodegrees.net/) created a great set of jumper diagrams for the rev 4 boards, available [on his site](http://www.minuszerodegrees.net/xtide/rev_4/XT-IDE%20Rev%204%20-%20general.htm).
 
 ### Bill of Materials
 
