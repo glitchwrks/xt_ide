@@ -4,6 +4,8 @@
 
 More info on the Glitch Works project to provide boards, kits, and fully assembled units [can be found here](http://www.glitchwrks.com/xt-ide). A writeup on the rev 4 design process [is available here](http://www.glitchwrks.com/2017/11/23/xt-ide-rev4). 
 
+If you're looking for the rev 3 branch, [it can be found here](https://github.com/glitchwrks/xt_ide/tree/rev_3). The README and related documentation have been preserved along with the design files.
+
 ### Jumper Settings
 
 [modem7](http://minuszerodegrees.net/) created a great set of jumper diagrams for the rev 4 boards, available [on his site](http://www.minuszerodegrees.net/xtide/rev_4/XT-IDE%20Rev%204%20-%20general.htm) as well as in this Git repository:
