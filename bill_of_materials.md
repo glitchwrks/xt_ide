@@ -14,7 +14,7 @@ U7          74LS138                             595-SN74LS138NE4
 U8, U10     74LS688                             595-SN74LS688N
 U9          AT28C64B                            556-AT28C64B15PU
 SW1, SW2    CTS 208-8                           774-2088
-RP1, RP2    10K x 9 SIP resistors               266-10K-RC
+RP1, RP2    10K x 9 SIP resistors               652-4610M-1LF-10K
 R1, R2      470R 1/4 Watt 5%                    660-MF1/4LCT52R471J
 R3, R4      10K 1/4 Watt 5%                     603-MFR-25FBF52-10K
 D1          HP HLMP-3507                        630-HLMP-3507
@@ -22,7 +22,7 @@ J3, J4      2x1 header                          538-22-28-4200 (See Note 1)
 J5          5x2 header                          538-22-28-4200 (See Note 1)
 J1, J2      3x1 header                          538-22-28-4200 (See Note 1)
 C1-C11      0.1 uF 50V axial capacitors         594-A104M15X7RF5TAA
-C12         100 uF 6.3V capacitors              647-UMA0J101MDD
+C12         100 uF 6.3V capacitors              667-ECE-A0JKA101I
 SOCKET      28 pin socket for EEPROM            575-199628 
 BRACKET     Keystone 9202 ISA bracket           534-9202
 SCREWS      4-40 x 1/4" machine screw           534-9301
